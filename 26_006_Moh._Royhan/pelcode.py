@@ -1,4 +1,4 @@
-daftar_buku = ["audit", "tata kelola", "si kancil", "si kancil dan buaya", "si kancil dan harimau", "si kancil dan gajah"]
+ daftar_buku = ["audit", "tata kelola", "si kancil", "si kancil dan buaya", "si kancil dan harimau", "si kancil dan gajah"]
 
 print("===LIST BUKU===")
 print ("0", daftar_buku[0])
